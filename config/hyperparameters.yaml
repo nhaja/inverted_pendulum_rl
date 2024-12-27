@@ -1,0 +1,14 @@
+pendulum:
+  n_pole: 2
+  max_force: 100.0
+  max_x: 5.0
+  dt: 0.05
+  g: 9.81
+  m_cart: 1.0
+  m_pole: 0.1
+  l: 1.0
+  b_cart: 0.0
+  b_pole: 0.005
+
+model:
+  gamma: 0.99
